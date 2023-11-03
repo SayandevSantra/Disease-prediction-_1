@@ -1,2 +1,2 @@
 # Disease-prediction-_1
-Heart disease prediction using  machije learning and logistic regression 
+Heart disease prediction using  machine learning and logistic regression 
